@@ -43,3 +43,5 @@ El análisis se centra en identificar las variables más significativas y crear 
         Variable Objetivo: Performance Index (Medida de rendimiento académico total).
 
         Variables Predictoras: Hours Studied, Previous Scores, Extracurricular Activities, Sleep Hour, Sample Question Papers Practiced.
+
+[Ver Proyecto](https://github.com/DataAnalystSergio/Student-performance-prediction/blob/154dc5900654e3d5b3a46d264b3f6bb5485e9e93/TP1/EJERCICIO.ipynb)
